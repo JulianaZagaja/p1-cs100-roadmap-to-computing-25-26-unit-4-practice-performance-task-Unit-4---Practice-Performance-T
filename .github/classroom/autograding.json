@@ -1,0 +1,174 @@
+{
+  "tests": [
+    {
+      "name": "Task 1.1 - Normal cart total",
+      "setup": "",
+      "run": "python3 test_runner.py task1_normal",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Task 1.2 - Empty cart returns 0",
+      "setup": "",
+      "run": "python3 test_runner.py task1_empty",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Task 1.3 - Single item",
+      "setup": "",
+      "run": "python3 test_runner.py task1_single",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Task 1.4 - max_items slicing",
+      "setup": "",
+      "run": "python3 test_runner.py task1_max_items",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Task 2.1 - Default parameters",
+      "setup": "",
+      "run": "python3 test_runner.py task2_defaults",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Task 2.2 - Override category",
+      "setup": "",
+      "run": "python3 test_runner.py task2_category",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Task 2.3 - Override in_stock",
+      "setup": "",
+      "run": "python3 test_runner.py task2_in_stock",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Task 2.4 - All keyword args",
+      "setup": "",
+      "run": "python3 test_runner.py task2_all_kwargs",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Task 3.1 - Filter under $5",
+      "setup": "",
+      "run": "python3 test_runner.py task3_filter_under_5",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 7
+    },
+    {
+      "name": "Task 3.2 - Filter excludes expensive",
+      "setup": "",
+      "run": "python3 test_runner.py task3_filter_excludes",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Task 3.3 - No matches returns []",
+      "setup": "",
+      "run": "python3 test_runner.py task3_no_matches",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Task 3.4 - Empty input returns []",
+      "setup": "",
+      "run": "python3 test_runner.py task3_empty_input",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Task 4.1 - total_products count",
+      "setup": "",
+      "run": "python3 test_runner.py task4_total_products",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Task 4.2 - total_value calculation",
+      "setup": "",
+      "run": "python3 test_runner.py task4_total_value",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 8
+    },
+    {
+      "name": "Task 4.3 - in_stock_count",
+      "setup": "",
+      "run": "python3 test_runner.py task4_in_stock_count",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Task 4.4 - categories set",
+      "setup": "",
+      "run": "python3 test_runner.py task4_categories",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Task 4.5 - Empty list handling",
+      "setup": "",
+      "run": "python3 test_runner.py task4_empty",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
