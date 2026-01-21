@@ -40,8 +40,13 @@ def create_product(name, price, category="General", in_stock=True):
     # TODO: Write your code here (replace 'pass')
     # Hint: Create a dictionary with the four keys and return it
     # The parameters already have default values, so just use them!
-    pass
-
+    dict = {
+        "name": name,
+        "price": price,
+        "category": category,
+        "in_stock": in_stock
+    }
+    return dict
 
 # =============================================================================
 # TEST CODE - Run this file to test your solution
